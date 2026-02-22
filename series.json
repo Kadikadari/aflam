@@ -1,0 +1,34 @@
+{
+  "series": [
+    {
+      "title": "الاختيار",
+      "poster": "https://i.ibb.co/stu901/al-ekhteyar.jpg",
+      "year": "2020",
+      "description": "مسلسل مصري يستعرض سيرة البطل أحمد المنسي.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            { "title": "الحلقة 1", "url": "https://example.com/videos/al-ekhteyar-s1e1.mp4" },
+            { "title": "الحلقة 2", "url": "https://example.com/videos/al-ekhteyar-s1e2.mp4" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Game of Thrones",
+      "poster": "https://i.ibb.co/vwx234/got.jpg",
+      "year": "2011",
+      "description": "مسلسل ملحمي خيالي عن الصراع على العرش الحديدي.",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            { "title": "Winter Is Coming", "url": "https://example.com/videos/got-s1e1.mp4" },
+            { "title": "The Kingsroad", "url": "https://example.com/videos/got-s1e2.mp4" }
+          ]
+        }
+      ]
+    }
+  ]
+}
