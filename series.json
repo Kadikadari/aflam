@@ -1,14 +1,14 @@
 [
   {
-    "id": "hawaziq",
-    "title": "hawaziq",
+    "id": "حوازيق",
+    "title": "حوازيق",
     "poster": "https://image2url.com/r2/default/images/1771818145225-31a34cc4-d885-4aa8-95f0-d0f6b90d3812.jpg",
     "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/hawaziq.json"
   },
   {
-    "id": "الاختيار",
-    "title": "الاختيار",
-    "poster": "https://i.ibb.co/stu901/al-ekhteyar.jpg",
-    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/asian.json"
+    "id": "الكندوش1",
+    "title": "الكندوش1",
+    "poster": "https://image2url.com/r2/default/images/1771887026341-06d4d263-2171-482a-8b7b-28943a53d790.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/alkandoush-1.json"
   }
 ]
