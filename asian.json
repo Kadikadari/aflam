@@ -1,25 +1,41 @@
 {
-  "movies": [
+  "id": "hawaziq",
+  "title": "hawaziq",
+  "seasons": [
     {
-      "title": "Inception",
-      "url": "https://example.com/videos/inception.mp4",
-      "poster": "https://i.ibb.co/jkl012/inception.jpg",
-      "year": "2010",
-      "description": "فيلم خيال علمي وإثارة من إخراج كريستوفر نولان."
-    },
-    {
-      "title": "The Dark Knight",
-      "url": "https://example.com/videos/dark-knight.mp4",
-      "poster": "https://i.ibb.co/mno345/dark-knight.jpg",
-      "year": "2008",
-      "description": "فيلم أكشن وجريمة وبطله باتمان في مواجهة الجوكر."
-    },
-    {
-      "title": "Interstellar",
-      "url": "https://example.com/videos/interstellar.mp4",
-      "poster": "https://i.ibb.co/pqr678/interstellar.jpg",
-      "year": "2014",
-      "description": "فيلم خيال علمي عن رحلة عبر الثقوب الدودية لإنقاذ البشرية."
+      "season": 1,
+      "episodes": [
+        { "title": "الحلقة 1", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/variant.m3u8", "image": "" },
+        { "title": "الحلقة 2", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/variant.m3u8", "image": "" },
+        { "title": "الحلقة 3", "url": "https://shoofmax.b-cdn.net/hawaziq/ep3/variant.m3u8", "image": "" },
+        { "title": "الحلقة 4", "url": "https://shoofmax.b-cdn.net/hawaziq/ep4/variant.m3u8", "image": "" },
+        { "title": "الحلقة 5", "url": "https://shoofmax.b-cdn.net/hawaziq/ep5/variant.m3u8", "image": "" },
+        { "title": "الحلقة 6", "url": "https://shoofmax.b-cdn.net/hawaziq/ep6/variant.m3u8", "image": "" },
+        { "title": "الحلقة 7", "url": "https://shoofmax.b-cdn.net/hawaziq/ep7/variant.m3u8", "image": "" },
+        { "title": "الحلقة 8", "url": "https://shoofmax.b-cdn.net/hawaziq/ep8/variant.m3u8", "image": "" },
+        { "title": "الحلقة 9", "url": "https://shoofmax.b-cdn.net/hawaziq/ep9/variant.m3u8", "image": "" },
+        { "title": "الحلقة 10", "url": "https://shoofmax.b-cdn.net/hawaziq/ep10/variant.m3u8", "image": "" },
+        { "title": "الحلقة 11", "url": "https://shoofmax.b-cdn.net/hawaziq/ep11/variant.m3u8", "image": "" },
+        { "title": "الحلقة 12", "url": "https://shoofmax.b-cdn.net/hawaziq/ep12/variant.m3u8", "image": "" },
+        { "title": "الحلقة 13", "url": "https://shoofmax.b-cdn.net/hawaziq/ep13/variant.m3u8", "image": "" },
+        { "title": "الحلقة 14", "url": "https://shoofmax.b-cdn.net/hawaziq/ep14/variant.m3u8", "image": "" },
+        { "title": "الحلقة 15", "url": "https://shoofmax.b-cdn.net/hawaziq/ep15/variant.m3u8", "image": "" },
+        { "title": "الحلقة 16", "url": "https://shoofmax.b-cdn.net/hawaziq/ep16/variant.m3u8", "image": "" },
+        { "title": "الحلقة 17", "url": "https://shoofmax.b-cdn.net/hawaziq/ep17/variant.m3u8", "image": "" },
+        { "title": "الحلقة 18", "url": "https://shoofmax.b-cdn.net/hawaziq/ep18/variant.m3u8", "image": "" },
+        { "title": "الحلقة 19", "url": "https://shoofmax.b-cdn.net/hawaziq/ep19/variant.m3u8", "image": "" },
+        { "title": "الحلقة 20", "url": "https://shoofmax.b-cdn.net/hawaziq/ep20/variant.m3u8", "image": "" },
+        { "title": "الحلقة 21", "url": "https://shoofmax.b-cdn.net/hawaziq/ep21/variant.m3u8", "image": "" },
+        { "title": "الحلقة 22", "url": "https://shoofmax.b-cdn.net/hawaziq/ep22/variant.m3u8", "image": "" },
+        { "title": "الحلقة 23", "url": "https://shoofmax.b-cdn.net/hawaziq/ep23/variant.m3u8", "image": "" },
+        { "title": "الحلقة 24", "url": "https://shoofmax.b-cdn.net/hawaziq/ep24/variant.m3u8", "image": "" },
+        { "title": "الحلقة 25", "url": "https://shoofmax.b-cdn.net/hawaziq/ep25/variant.m3u8", "image": "" },
+        { "title": "الحلقة 26", "url": "https://shoofmax.b-cdn.net/hawaziq/ep26/variant.m3u8", "image": "" },
+        { "title": "الحلقة 27", "url": "https://shoofmax.b-cdn.net/hawaziq/ep27/variant.m3u8", "image": "" },
+        { "title": "الحلقة 28", "url": "https://shoofmax.b-cdn.net/hawaziq/ep28/variant.m3u8", "image": "" },
+        { "title": "الحلقة 29", "url": "https://shoofmax.b-cdn.net/hawaziq/ep29/variant.m3u8", "image": "" },
+        { "title": "الحلقة 30", "url": "https://shoofmax.b-cdn.net/hawaziq/ep30/variant.m3u8", "image": "" }
+      ]
     }
   ]
 }
