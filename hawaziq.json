@@ -6,7 +6,35 @@
       "season": 1,
       "episodes": [
         { "title": "الحلقة 1", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
-        { "title": "الحلقة 2", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+        { "title": "الحلقة 2", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" } 
+         { "title": "الحلقة 3", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 4", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+         { "title": "الحلقة 5", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 6", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+         { "title": "الحلقة 7", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 8", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+         { "title": "الحلقة 9", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 10", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+         { "title": "الحلقة 11", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 12", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+         { "title": "الحلقة 13", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 14", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" } 
+         { "title": "الحلقة 15", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 16", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+         { "title": "الحلقة 17", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 18", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+         { "title": "الحلقة 19", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 20", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+         { "title": "الحلقة 21", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 22", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+         { "title": "الحلقة 23", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 24", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+        { "title": "الحلقة 25", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 26", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+         { "title": "الحلقة 27", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 28", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
+         { "title": "الحلقة 29", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 30", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
       ]
     }
   ]
