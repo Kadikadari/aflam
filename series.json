@@ -1,11 +1,11 @@
 [
   {
-    "id": "game-of-thrones",
-    "title": "Game of Thrones",
-    "poster": "https://i.ibb.co/vwx234/got.jpg",
+    "id": "عودة غوار",
+    "title": "عودة غوار",
+    "poster": "https://image2url.com/r2/default/images/1771817565957-62223205-584e-432b-bf06-14d50b931411.jpg",
     "year": "2011",
-    "description": "مسلسل ملحمي خيالي عن الصراع على العرش الحديدي.",
-    "detailsUrl": "https://example.com/data/series/game-of-thrones.json"
+    "description": "مسلسل .",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/series1.json"
   },
   {
     "id": "الاختيار",
