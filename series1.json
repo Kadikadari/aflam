@@ -1,0 +1,13 @@
+{
+  "id": "الاختيار",
+  "title": "الاختيار",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        { "title": "الحلقة 1", "url": "https://example.com/videos/al-ekhteyar-s1e1.mp4" },
+        { "title": "الحلقة 2", "url": "https://example.com/videos/al-ekhteyar-s1e2.mp4" }
+      ]
+    }
+  ]
+}
