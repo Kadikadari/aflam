@@ -5,8 +5,8 @@
     {
       "season": 1,
       "episodes": [
-        { "title": "الحلقة 1", "url": "https://example.com/videos/al-ekhteyar-s1e1.mp4" },
-        { "title": "الحلقة 2", "url": "https://example.com/videos/al-ekhteyar-s1e2.mp4" }
+        { "title": "الحلقة 1", "url": "https://shoofmax.b-cdn.net/hawaziq/ep1/240p/index1.ts" },
+        { "title": "الحلقة 2", "url": "https://shoofmax.b-cdn.net/hawaziq/ep2/240p/index1.ts" }
       ]
     }
   ]
