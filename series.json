@@ -102,11 +102,36 @@
     "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/otr-alsham-3.json"
   },
    {
-    "id": "ومضات ",
-    "title": "ومضات ",
-    "poster": "https://image2url.com/r2/default/images/1771933994632-564f3b3b-b039-4578-a7f5-5a7d3904583d.jpg",
-    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/wamadat.json"
+    "id": "الغريب ",
+    "title": "الغريب ",
+    "poster": "https://image2url.com/r2/default/images/1771939182669-89165488-6afa-4b35-ba9f-9b4321c2d078.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/alghareeb.json"
   },
+    {
+    "id": "شوق ",
+    "title": "شوق ",
+    "poster": "https://image2url.com/r2/default/images/1771939660848-f48ceaf6-cd54-4d02-b329-54b6a5cee513.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/shoq.json"
+  },
+   {
+    "id": "كالوس ",
+    "title": "كالوس ",
+    "poster": "https://image2url.com/r2/default/images/1771940055741-ebfeb721-0e5b-411b-a740-9d03dee74e43.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/kalos.json"
+  },
+   {
+    "id": "حياة تانيه ",
+    "title": "حياة ثانية ",
+    "poster": "https://image2url.com/r2/default/images/1771940779286-03103ed8-350e-4d30-99d1-6f054e8dd835.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/hayat-thaniya.json"
+  },
+   {
+    "id": "يوميات مدير عام ",
+    "title": "يوميات مدير عام ",
+    "poster": "https://image2url.com/r2/default/images/1771941185405-576bf470-ca8d-49c8-b24d-87cd568aae5b.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/yawmiyyat-modeer-aam-1.json"
+  },
+  
   {
     "id": "الكندوش1",
     "title": "الكندوش1",
