@@ -110,7 +110,7 @@
     {
     "id": "شوق ",
     "title": "شوق ",
-    "poster": "https://image2url.com/r2/default/images/1771939660848-f48ceaf6-cd54-4d02-b329-54b6a5cee513.jpg",
+    "poster": "https://image2url.com/r2/default/images/1771941364870-950f4a25-ecee-45a4-bed5-6e1b0d5dd23b.jpg",
     "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/shoq.json"
   },
    {
@@ -131,7 +131,48 @@
     "poster": "https://image2url.com/r2/default/images/1771941185405-576bf470-ca8d-49c8-b24d-87cd568aae5b.jpg",
     "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/yawmiyyat-modeer-aam-1.json"
   },
-  
+   {
+    "id": "يوميات جميل وهناء ",
+    "title": "يوميات جميل وهناء ",
+    "poster": "https://image2url.com/r2/default/images/1771942065243-3d5a9040-f51b-4731-8622-27d8cfc88627.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/yawmiyyat-jamil-w-hanaa.json"
+  },
+   {
+    "id": "عودة غوار ",
+    "title": "عودة غوار ",
+    "poster": "https://image2url.com/r2/default/images/1771942634947-8cdb9a50-9acf-4b21-994c-9457a59b5cf8.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/awdet-ghawwar.json"
+  },
+   {
+    "id": "اسرار المدينه ",
+    "title": "اسرار المدينه ",
+    "poster": "https://image2url.com/r2/default/images/1771943014279-5bcb177d-bbdc-4860-b4d8-d943c1b45963.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/assrar-almadina.json"
+  },
+   {
+    "id": "كالوس ",
+    "title": "كالوس ",
+    "poster": "https://image2url.com/r2/default/images/1771940055741-ebfeb721-0e5b-411b-a740-9d03dee74e43.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/kalos.json"
+  },
+   {
+    "id": "كالوس ",
+    "title": "كالوس ",
+    "poster": "https://image2url.com/r2/default/images/1771940055741-ebfeb721-0e5b-411b-a740-9d03dee74e43.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/kalos.json"
+  },
+   {
+    "id": "كالوس ",
+    "title": "كالوس ",
+    "poster": "https://image2url.com/r2/default/images/1771940055741-ebfeb721-0e5b-411b-a740-9d03dee74e43.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/kalos.json"
+  },
+   {
+    "id": "كالوس ",
+    "title": "كالوس ",
+    "poster": "https://image2url.com/r2/default/images/1771940055741-ebfeb721-0e5b-411b-a740-9d03dee74e43.jpg",
+    "detailsUrl": "https://github.com/Kadikadari/aflam/raw/refs/heads/main/kalos.json"
+  },
   {
     "id": "الكندوش1",
     "title": "الكندوش1",
