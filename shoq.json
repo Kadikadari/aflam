@@ -1,0 +1,44 @@
+{
+  "id": "shoq",
+  "title": "shoq",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        { "title": "الحلقة 1", "url": "https://shoofmax.b-cdn.net/shoq/ep1/variant.m3u8", "image": "" },
+        { "title": "الحلقة 2", "url": "https://shoofmax.b-cdn.net/shoq/ep2/variant.m3u8", "image": "" },
+        { "title": "الحلقة 3", "url": "https://shoofmax.b-cdn.net/shoq/ep3/variant.m3u8", "image": "" },
+        { "title": "الحلقة 4", "url": "https://shoofmax.b-cdn.net/shoq/ep4/variant.m3u8", "image": "" },
+        { "title": "الحلقة 5", "url": "https://shoofmax.b-cdn.net/shoq/ep5/variant.m3u8", "image": "" },
+        { "title": "الحلقة 6", "url": "https://shoofmax.b-cdn.net/shoq/ep6/variant.m3u8", "image": "" },
+        { "title": "الحلقة 7", "url": "https://shoofmax.b-cdn.net/shoq/ep7/variant.m3u8", "image": "" },
+        { "title": "الحلقة 8", "url": "https://shoofmax.b-cdn.net/shoq/ep8/variant.m3u8", "image": "" },
+        { "title": "الحلقة 9", "url": "https://shoofmax.b-cdn.net/shoq/ep9/variant.m3u8", "image": "" },
+        { "title": "الحلقة 10", "url": "https://shoofmax.b-cdn.net/shoq/ep10/variant.m3u8", "image": "" },
+        { "title": "الحلقة 11", "url": "https://shoofmax.b-cdn.net/shoq/ep11/variant.m3u8", "image": "" },
+        { "title": "الحلقة 12", "url": "https://shoofmax.b-cdn.net/shoq/ep12/variant.m3u8", "image": "" },
+        { "title": "الحلقة 13", "url": "https://shoofmax.b-cdn.net/shoq/ep13/variant.m3u8", "image": "" },
+        { "title": "الحلقة 14", "url": "https://shoofmax.b-cdn.net/shoq/ep14/variant.m3u8", "image": "" },
+        { "title": "الحلقة 15", "url": "https://shoofmax.b-cdn.net/shoq/ep15/variant.m3u8", "image": "" },
+        { "title": "الحلقة 16", "url": "https://shoofmax.b-cdn.net/shoq/ep16/variant.m3u8", "image": "" },
+        { "title": "الحلقة 17", "url": "https://shoofmax.b-cdn.net/shoq/ep17/variant.m3u8", "image": "" },
+        { "title": "الحلقة 18", "url": "https://shoofmax.b-cdn.net/shoq/ep18/variant.m3u8", "image": "" },
+        { "title": "الحلقة 19", "url": "https://shoofmax.b-cdn.net/shoq/ep19/variant.m3u8", "image": "" },
+        { "title": "الحلقة 20", "url": "https://shoofmax.b-cdn.net/shoq/ep20/variant.m3u8", "image": "" },
+        { "title": "الحلقة 21", "url": "https://shoofmax.b-cdn.net/shoq/ep21/variant.m3u8", "image": "" },
+        { "title": "الحلقة 22", "url": "https://shoofmax.b-cdn.net/shoq/ep22/variant.m3u8", "image": "" },
+        { "title": "الحلقة 23", "url": "https://shoofmax.b-cdn.net/shoq/ep23/variant.m3u8", "image": "" },
+        { "title": "الحلقة 24", "url": "https://shoofmax.b-cdn.net/shoq/ep24/variant.m3u8", "image": "" },
+        { "title": "الحلقة 25", "url": "https://shoofmax.b-cdn.net/shoq/ep25/variant.m3u8", "image": "" },
+        { "title": "الحلقة 26", "url": "https://shoofmax.b-cdn.net/shoq/ep26/variant.m3u8", "image": "" },
+        { "title": "الحلقة 27", "url": "https://shoofmax.b-cdn.net/shoq/ep27/variant.m3u8", "image": "" },
+        { "title": "الحلقة 28", "url": "https://shoofmax.b-cdn.net/shoq/ep28/variant.m3u8", "image": "" },
+        { "title": "الحلقة 29", "url": "https://shoofmax.b-cdn.net/shoq/ep29/variant.m3u8", "image": "" },
+        { "title": "الحلقة 30", "url": "https://shoofmax.b-cdn.net/shoq/ep30/variant.m3u8", "image": "" },
+        { "title": "الحلقة 31", "url": "https://shoofmax.b-cdn.net/shoq/ep31/variant.m3u8", "image": "" },
+        { "title": "الحلقة 32", "url": "https://shoofmax.b-cdn.net/shoq/ep32/variant.m3u8", "image": "" },
+        { "title": "الحلقة 33", "url": "https://shoofmax.b-cdn.net/shoq/ep33/variant.m3u8", "image": "" }
+      ]
+    }
+  ]
+}
