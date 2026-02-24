@@ -1,0 +1,38 @@
+{
+  "id": "awdet-ghawwar",
+  "title": "awdet-ghawwar",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        { "title": "الحلقة 1", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep1/variant.m3u8", "image": "" },
+        { "title": "الحلقة 2", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep2/variant.m3u8", "image": "" },
+        { "title": "الحلقة 3", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep3/variant.m3u8", "image": "" },
+        { "title": "الحلقة 4", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep4/variant.m3u8", "image": "" },
+        { "title": "الحلقة 5", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep5/variant.m3u8", "image": "" },
+        { "title": "الحلقة 6", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep6/variant.m3u8", "image": "" },
+        { "title": "الحلقة 7", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep7/variant.m3u8", "image": "" },
+        { "title": "الحلقة 8", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep8/variant.m3u8", "image": "" },
+        { "title": "الحلقة 9", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep9/variant.m3u8", "image": "" },
+        { "title": "الحلقة 10", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep10/variant.m3u8", "image": "" },
+        { "title": "الحلقة 11", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep11/variant.m3u8", "image": "" },
+        { "title": "الحلقة 12", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep12/variant.m3u8", "image": "" },
+        { "title": "الحلقة 13", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep13/variant.m3u8", "image": "" },
+        { "title": "الحلقة 14", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep14/variant.m3u8", "image": "" },
+        { "title": "الحلقة 15", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep15/variant.m3u8", "image": "" },
+        { "title": "الحلقة 16", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep16/variant.m3u8", "image": "" },
+        { "title": "الحلقة 17", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep17/variant.m3u8", "image": "" },
+        { "title": "الحلقة 18", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep18/variant.m3u8", "image": "" },
+        { "title": "الحلقة 19", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep19/variant.m3u8", "image": "" },
+        { "title": "الحلقة 20", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep20/variant.m3u8", "image": "" },
+        { "title": "الحلقة 21", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep21/variant.m3u8", "image": "" },
+        { "title": "الحلقة 22", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep22/variant.m3u8", "image": "" },
+        { "title": "الحلقة 23", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep23/variant.m3u8", "image": "" },
+        { "title": "الحلقة 24", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep24/variant.m3u8", "image": "" },
+        { "title": "الحلقة 25", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep25/variant.m3u8", "image": "" },
+        { "title": "الحلقة 26", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep26/variant.m3u8", "image": "" },
+        { "title": "الحلقة 27", "url": "https://shoofmax.b-cdn.net/awdet-ghawwar/ep27/variant.m3u8", "image": "" }
+      ]
+    }
+  ]
+}
