@@ -1,0 +1,36 @@
+{
+  "id": "assrar-almadina",
+  "title": "assrar-almadina",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        { "title": "الحلقة 1", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep1/variant.m3u8", "image": "" },
+        { "title": "الحلقة 2", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep2/variant.m3u8", "image": "" },
+        { "title": "الحلقة 3", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep3/variant.m3u8", "image": "" },
+        { "title": "الحلقة 4", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep4/variant.m3u8", "image": "" },
+        { "title": "الحلقة 5", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep5/variant.m3u8", "image": "" },
+        { "title": "الحلقة 6", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep6/variant.m3u8", "image": "" },
+        { "title": "الحلقة 7", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep7/variant.m3u8", "image": "" },
+        { "title": "الحلقة 8", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep8/variant.m3u8", "image": "" },
+        { "title": "الحلقة 9", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep9/variant.m3u8", "image": "" },
+        { "title": "الحلقة 10", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep10/variant.m3u8", "image": "" },
+        { "title": "الحلقة 11", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep11/variant.m3u8", "image": "" },
+        { "title": "الحلقة 12", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep12/variant.m3u8", "image": "" },
+        { "title": "الحلقة 13", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep13/variant.m3u8", "image": "" },
+        { "title": "الحلقة 14", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep14/variant.m3u8", "image": "" },
+        { "title": "الحلقة 15", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep15/variant.m3u8", "image": "" },
+        { "title": "الحلقة 16", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep16/variant.m3u8", "image": "" },
+        { "title": "الحلقة 17", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep17/variant.m3u8", "image": "" },
+        { "title": "الحلقة 18", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep18/variant.m3u8", "image": "" },
+        { "title": "الحلقة 19", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep19/variant.m3u8", "image": "" },
+        { "title": "الحلقة 20", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep20/variant.m3u8", "image": "" },
+        { "title": "الحلقة 21", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep21/variant.m3u8", "image": "" },
+        { "title": "الحلقة 22", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep22/variant.m3u8", "image": "" },
+        { "title": "الحلقة 23", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep23/variant.m3u8", "image": "" },
+        { "title": "الحلقة 24", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep24/variant.m3u8", "image": "" },
+        { "title": "الحلقة 25", "url": "https://shoofmax.b-cdn.net/assrar-almadina/ep25/variant.m3u8", "image": "" }
+      ]
+    }
+  ]
+}
