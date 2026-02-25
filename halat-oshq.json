@@ -1,0 +1,41 @@
+{
+  "id": "halat-oshq",
+  "title": "halat-oshq",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        { "title": "الحلقة 1", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep1/variant.m3u8", "image": "" },
+        { "title": "الحلقة 2", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep2/variant.m3u8", "image": "" },
+        { "title": "الحلقة 3", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep3/variant.m3u8", "image": "" },
+        { "title": "الحلقة 4", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep4/variant.m3u8", "image": "" },
+        { "title": "الحلقة 5", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep5/variant.m3u8", "image": "" },
+        { "title": "الحلقة 6", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep6/variant.m3u8", "image": "" },
+        { "title": "الحلقة 7", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep7/variant.m3u8", "image": "" },
+        { "title": "الحلقة 8", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep8/variant.m3u8", "image": "" },
+        { "title": "الحلقة 9", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep9/variant.m3u8", "image": "" },
+        { "title": "الحلقة 10", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep10/variant.m3u8", "image": "" },
+        { "title": "الحلقة 11", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep11/variant.m3u8", "image": "" },
+        { "title": "الحلقة 12", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep12/variant.m3u8", "image": "" },
+        { "title": "الحلقة 13", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep13/variant.m3u8", "image": "" },
+        { "title": "الحلقة 14", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep14/variant.m3u8", "image": "" },
+        { "title": "الحلقة 15", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep15/variant.m3u8", "image": "" },
+        { "title": "الحلقة 16", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep16/variant.m3u8", "image": "" },
+        { "title": "الحلقة 17", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep17/variant.m3u8", "image": "" },
+        { "title": "الحلقة 18", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep18/variant.m3u8", "image": "" },
+        { "title": "الحلقة 19", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep19/variant.m3u8", "image": "" },
+        { "title": "الحلقة 20", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep20/variant.m3u8", "image": "" },
+        { "title": "الحلقة 21", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep21/variant.m3u8", "image": "" },
+        { "title": "الحلقة 22", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep22/variant.m3u8", "image": "" },
+        { "title": "الحلقة 23", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep23/variant.m3u8", "image": "" },
+        { "title": "الحلقة 24", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep24/variant.m3u8", "image": "" },
+        { "title": "الحلقة 25", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep25/variant.m3u8", "image": "" },
+        { "title": "الحلقة 26", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep26/variant.m3u8", "image": "" },
+        { "title": "الحلقة 27", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep27/variant.m3u8", "image": "" },
+        { "title": "الحلقة 28", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep28/variant.m3u8", "image": "" },
+        { "title": "الحلقة 29", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep29/variant.m3u8", "image": "" },
+        { "title": "الحلقة 30", "url": "https://shoofmax.b-cdn.net/halat-oshq/ep30/variant.m3u8", "image": "" }
+      ]
+    }
+  ]
+}
