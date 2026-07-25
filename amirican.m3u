@@ -292,32 +292,4 @@ http://181.119.93.83:8000/play/a0hw/index.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL",TLC SD
 http://181.119.93.83:8000/play/a1jg/index.m3u8
 
-# --- CATEGORÍA: RELIGIÓN Y OTROS ---
-#EXTINF:-1 group-title="RELIGION",BETHEL HD
-http://181.119.93.83:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="RELIGION",BETHEL TV
-http://181.119.93.83:8000/play/a269/index.m3u8
-#EXTINF:-1 group-title="RELIGION",Bethel One Second
-http://181.119.93.83:8000/play/a26a/index.m3u8
-#EXTINF:-1 group-title="RELIGION",RADIO BETHEL
-http://181.119.93.83:8000/play/a26b/index.m3u8
-#EXTINF:-1 group-title="RELIGION",EWTN SD
-http://181.119.93.83:8000/play/a1j9/index.m3u8
-#EXTINF:-1 group-title="RELIGION",Enlace SD
-http://181.119.93.83:8000/play/a1nu/index.m3u8
-#EXTINF:-1 group-title="RELIGION",Cristovision SD
-http://181.119.93.83:8000/play/a23s/index.m3u8
-#EXTINF:-1 group-title="RELIGION",DAYSTAR SD
-http://181.119.93.83:8000/play/a1se/index.m3u8
-#EXTINF:-1 group-title="VARIOS",RADIO PBO
-http://181.119.93.83:8000/play/a26c/index.m3u8
-#EXTINF:-1 group-title="VARIOS",Stingray Concerts HD
-http://181.119.93.83:8000/play/a263/index.m3u8
-#EXTINF:-1 group-title="VARIOS",UCL SD
-http://181.119.93.83:8000/play/a23p/index.m3u8
-#EXTINF:-1 group-title="VARIOS",Zona Latina SD
-http://181.119.93.83:8000/play/a23q/index.m3u8
-#EXTINF:-1 group-title="ADULTOS",Venus SD
-http://181.119.93.83:8000/play/a1su/index.m3u8
-#EXTINF:-1 group-title="ADULTOS",Playboy HD
-http://181.119.93.83:8000/play/a1d4/index.m3u8
+
