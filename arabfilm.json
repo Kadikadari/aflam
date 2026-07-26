@@ -1,4 +1,8 @@
- {
+{
+  "name": "أفلام عربية",
+  "channels": [
+
+{
   "name": "خطة جيمي",
   "url": "https://shoofmax.b-cdn.net/khotat-jimi/variant.m3u8",
   "logo": "https://image2url.com/r2/default/images/1771887983070-c1f2bb4d-a178-4b0e-a56f-3ab067674f91.jpg" ,
@@ -439,3 +443,5 @@
   "isDeep": true,
   "referer": " " 
 }
+  ]
+    }, 
