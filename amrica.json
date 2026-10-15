@@ -3,12 +3,12 @@
   "name": "أفلام ",
   "channels": [
 
-    {
-  "name": "the-bluff",
-  "url": " https://mp4plus.cyou/embed-0xsixapb9zg9.html",
-  "logo": "https://image2url.com/r2/default/images/1772399392862-957d2ecb-c046-45e7-9749-5c543058de5e.jpg",
+   {
+  "name": "MBC 1",
+  "url": "https://mp4plus.cyou/embed-0xsixapb9zg9.html",
+  "logo": "https://i.postimg.cc/ZKLxX7Q2/tnzyl.png",
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36",
+    "User-Agent": "Mozilla",
     "Referer": "",
     "Origin": " "
   },
